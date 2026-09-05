@@ -1,9 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=200&section=header&text=Hi%20there!%20I'm%20Cloouu%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20cozy%20corner%20of%20GitHub%20&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=200&section=header&text=Hi%20there!%20I'm%20Cloouu%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20cozy%20corner%20of%20GitHub%20🌸&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+%F0%9F%8C%B8;Still+learning+with+how+things+work+%F0%9F%92%96;Connect+with+me%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+%F0%9F%8C%B8;Building+cute+things+with+code+%F0%9F%92%96;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="280">
 </div>
 
 <br>
@@ -12,10 +18,10 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-- 💖 Still a work in progress
-- 🌷 Committed to learn
+- 💖 Passionate about building clean, cute, and functional software
+- 🌷 Currently exploring new frameworks and leveling up my skills
 - 🎀 I believe good design and good code go hand in hand
-- ☁️ Named **Cloouu** because I don't have a choice
+- ☁️ Named **Cloouu** because I like my projects light, soft, and easy to work with
 - 📫 Reach out if you want to collaborate on something fun!
 
 <br clear="right"/>
@@ -38,6 +44,8 @@
 
 </div>
 
+> 💡 *Swap the icon codes above (`i=js,ts,py...`) with whatever your real stack is — full list of supported icons is at [skillicons.dev](https://skillicons.dev).*
+
 <br>
 
 ## 📊 GitHub Stats
@@ -59,8 +67,8 @@
 
 | ☁️ Cloouu |
 |:---:|
-| Check what I'm currently building! |
-| [View Repo →]([https://github.com/Cloouu?tab=repositories]) |
+| A soft, minimal space to showcase what I'm building |
+| [View Repo →](https://github.com/Cloouu/Cloouu) |
 
 </div>
 
@@ -83,6 +91,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFC0CB&height=100&section=footer"/>
 
-*Thanks for stopping by! 🌸*
+*For the hope of it all 🌸*
 
 </div>
