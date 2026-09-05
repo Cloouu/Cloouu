@@ -76,8 +76,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Cloouu&color=ff69b4&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFC0CB&height=100&section=footer"/>
+*For the hope of it all 🌸*
 
-*Thanks for stopping by! 🌸*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFC0CB&height=100&section=footer"/>
 
 </div>
