@@ -38,8 +38,6 @@
 
 </div>
 
-> 💡 *Swap the icon codes above (`i=js,ts,py...`) with whatever your real stack is — full list of supported icons is at [skillicons.dev](https://skillicons.dev).*
-
 <br>
 
 ## 📊 GitHub Stats
