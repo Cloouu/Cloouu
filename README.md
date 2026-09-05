@@ -60,7 +60,7 @@
 | ☁️ Cloouu |
 |:---:|
 | Check what I'm currently building! |
-| [View Repo →]([https://github.com/Cloouu](https://github.com/Cloouu?tab=repositories)) |
+| [View Repo →]([https://github.com/Cloouu?tab=repositories]) |
 
 </div>
 
